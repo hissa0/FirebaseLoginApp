@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/35aae52125fa0a829ee36b9afcff04fa211d3a2d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/b16272e40f5c8865afa52c531575f02199462d04/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hissa/.android/build-cache/88ca6d464aa623b3feb6dc25fb1d6153106dae27/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/hissa/.android/build-cache/646d6959d23b67f120205a8545f1458b534b154a/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/hissa/.android/build-cache/f2a858d526c7c45e16e09c06a9f31906a69c8a07/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/hissa/.android/build-cache/11588d3943cc0e0a60d3bdc84a8954986e590ddd/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hissa/.android/build-cache/e96e28e62996228f1048da62abcda067363c5c43/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/hissa/.android/build-cache/b30d9b01db37cfde6ae58f6a7061b54815c71da1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9eaa43cef7ef1216ad6e61a1c4a3857f5617937d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/hissa/.android/build-cache/97ae8a781d24e7f8f4e0d96a4beccb907c32f6e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/hissa/.android/build-cache/acc845a37fdd72b134aa87422286a68b8eb996f6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/hissa/.android/build-cache/3308a61407558f180ab0a519b7b625d572c5fd9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9bc8f15f849eb43627f8909756642997f0bdcae4/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:9:9-37
+	android:theme
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.firebaseloginapp.AccountActivity.LoginActivity
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:14:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:15:13-20:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:16:27-74
+action#android.intent.action.MAIN
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:17:25-66
+activity#com.firebaseloginapp.AccountActivity.MainActivity
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:22:9-66
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:22:19-63
+activity#com.firebaseloginapp.AccountActivity.SignupActivity
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:23:19-65
+activity#com.firebaseloginapp.AccountActivity.ResetPasswordActivity
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:24:9-75
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:24:19-72
+activity#com.firebaseloginapp.AccountActivity.MainAdminActivity
+ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:26:9-80
+	android:name
+		ADDED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml:26:19-68
+uses-sdk
+INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/35aae52125fa0a829ee36b9afcff04fa211d3a2d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/b16272e40f5c8865afa52c531575f02199462d04/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hissa/.android/build-cache/88ca6d464aa623b3feb6dc25fb1d6153106dae27/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/hissa/.android/build-cache/646d6959d23b67f120205a8545f1458b534b154a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/hissa/.android/build-cache/f2a858d526c7c45e16e09c06a9f31906a69c8a07/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/hissa/.android/build-cache/11588d3943cc0e0a60d3bdc84a8954986e590ddd/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hissa/.android/build-cache/e96e28e62996228f1048da62abcda067363c5c43/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/hissa/.android/build-cache/b30d9b01db37cfde6ae58f6a7061b54815c71da1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9eaa43cef7ef1216ad6e61a1c4a3857f5617937d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/hissa/.android/build-cache/97ae8a781d24e7f8f4e0d96a4beccb907c32f6e1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/hissa/.android/build-cache/acc845a37fdd72b134aa87422286a68b8eb996f6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/hissa/.android/build-cache/3308a61407558f180ab0a519b7b625d572c5fd9b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9bc8f15f849eb43627f8909756642997f0bdcae4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hissa/Desktop/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/35aae52125fa0a829ee36b9afcff04fa211d3a2d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/hissa/.android/build-cache/b16272e40f5c8865afa52c531575f02199462d04/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/hissa/.android/build-cache/b30d9b01db37cfde6ae58f6a7061b54815c71da1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9eaa43cef7ef1216ad6e61a1c4a3857f5617937d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/hissa/.android/build-cache/97ae8a781d24e7f8f4e0d96a4beccb907c32f6e1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/hissa/.android/build-cache/acc845a37fdd72b134aa87422286a68b8eb996f6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/hissa/.android/build-cache/3308a61407558f180ab0a519b7b625d572c5fd9b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/hissa/.android/build-cache/9bc8f15f849eb43627f8909756642997f0bdcae4/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/hissa/.android/build-cache/399c7a3fa4991a68a99c66c9477914447b68e56f/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hissa/.android/build-cache/3d3d36d483d35a2fb4c0c4eb9f413b0f12a8eda3/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hissa/.android/build-cache/e38b0337e185e3f0786d5f3bd841cd6a63f4c0c6/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hissa/.android/build-cache/e60a4929543504c8c61024f70808142c56e4c7a8/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hissa/.android/build-cache/48f865bb8844627831590e0f8c634b6f219703e4/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hissa/.android/build-cache/4b6a591d6c7440a19c594c57a94b525482514fde/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hissa/.android/build-cache/e96e28e62996228f1048da62abcda067363c5c43/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hissa/.android/build-cache/e96e28e62996228f1048da62abcda067363c5c43/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hissa/.android/build-cache/e96e28e62996228f1048da62abcda067363c5c43/output/AndroidManifest.xml:20:20-65

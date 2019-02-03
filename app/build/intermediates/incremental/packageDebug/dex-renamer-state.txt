@@ -1,0 +1,7 @@
+#Sun Feb 03 11:37:41 AST 2019
+base.0=/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_54debaacc43a64eb83b934b89015826ee2063590
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2522e09900376e4599b558bba0ef83d3a2cc3a51/classes.dex
+base.1=/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2522e09900376e4599b558bba0ef83d3a2cc3a51
+file.0=/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_54debaacc43a64eb83b934b89015826ee2063590/classes.dex

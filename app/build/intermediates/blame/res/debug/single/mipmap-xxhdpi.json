@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/hissa/Desktop/FirebaseLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/icon1.png",
+        "source": "/Users/hissa/Desktop/FirebaseLoginApp/app/src/main/res/mipmap-xxhdpi/icon1.png"
+    },
+    {
+        "merged": "/Users/hissa/Desktop/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/hissa/Desktop/FirebaseLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
